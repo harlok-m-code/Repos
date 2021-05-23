@@ -37,6 +37,8 @@ function App() {
     )
   },[])
 
+  const del =13;
+
 
   const detRow = (row) => {
     setRowItem(row);
